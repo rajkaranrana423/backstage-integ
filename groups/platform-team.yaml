@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: platform-team
-  namespace: default
+  namespace: guests
   description: Platform Team
 spec:
   type: team
