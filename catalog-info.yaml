@@ -16,7 +16,7 @@ metadata:
 spec:
     type: service
     lifecycle: production
-    owner: idpadmins
+    owner: rajkaran.rana423
     system: project-x
 
 ---
