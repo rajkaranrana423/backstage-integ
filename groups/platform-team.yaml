@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: platform-team
+  namespace: default
+  description: Platform Team
+spec:
+  type: team
+  profile:
+    displayName: Platform Team
+  children: []
